@@ -2,7 +2,7 @@
 //  WeatherModel.swift
 //  Clima
 //
-//  Created by Juan Diego Ocampo on 07/10/2020.
+//  Created by Juan Diego Ocampo on 07/11/2020.
 //  Copyright © 2020 App Brewery. All rights reserved.
 //
 
